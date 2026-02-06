@@ -6,8 +6,7 @@
 4秒経過か不正解でＧＡＭＥオーバー
 
 # ランキングシステムについて
-https://sites.google.com/view/koumangemes/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E4%BF%9D%E8%AD%B7%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
-
+https://sites.google.com/view/koumangemes/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC#h.qqwzzo2nx5ip
 
 # 回答方法
 android　IOS、
