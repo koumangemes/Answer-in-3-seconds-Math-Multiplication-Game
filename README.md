@@ -5,8 +5,8 @@
 # ＧＡＭＥオーバー条件
 4秒経過か不正解でＧＡＭＥオーバー
 
-# ランキングシステムについて
-https://sites.google.com/view/koumangemes/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC#h.qqwzzo2nx5ip
+# KOUMAGEMESアカウントについて
+https://sites.google.com/view/koumangemes/koumagemes%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88/%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
 
 # 回答方法
 android　IOS、
